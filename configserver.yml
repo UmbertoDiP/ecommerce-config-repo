@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/tuo-repo-config/config-repo
+          uri: https://github.com/UmbertoDiP/ecommerce-config-repo
           clone-on-start: true
 
 management:

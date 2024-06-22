@@ -1,1 +1,2 @@
-application-dev.yml
+jwt:
+  secret: w9ziJ3aX3HhJ8pX2E9r6Yv5mO2hS4kD3

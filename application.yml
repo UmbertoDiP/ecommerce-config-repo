@@ -1,3 +1,4 @@
+message: "Hello from Git"
 some:
   default:
     property: defaultValue

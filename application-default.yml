@@ -1,4 +1,6 @@
-some.default.property: defaultValue
+some:
+  default:
+    property: defaultValue
 eureka:
   client:
     register-with-eureka: false
